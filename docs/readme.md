@@ -1,4 +1,4 @@
 # chenopod
 hello world!
 
-[introduction](/docs/introduction/graft.md)
+[introduction](/docs/pages/introduction.html)
